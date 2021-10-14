@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Pruebita jest test Eduardo Gonzalez Canul",
+            "program": "${workspaceRoot}/node_modules/jest/bin/jest.js",
+            "request": "launch",
+            "type": "node",
+            "args": ["-1"],
+            "internalConsoleOptions":"openOnFirstSessionStart"
+        }
+        
+    ]
+}
